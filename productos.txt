@@ -1,0 +1,1 @@
+[{"title":"reel Beast","description":"4 rulemanes manija izq o der","price":1200,"image":"imagenREEL","code":"cod 1","stock":15,"id":1},{"title":"caña de pescar","description":"2 tramos total de 1,80m","price":800,"image":"imagenCAÑA","code":"cod 2","stock":25,"id":2}]
